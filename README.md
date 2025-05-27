@@ -1,4 +1,4 @@
-# Exa GUI Search Engine (Tkinter)
+# Search Engine using Exa
 
 ## 🔍 Overview
 
@@ -32,8 +32,7 @@ This project is a **desktop GUI search engine** powered by the [Exa API](https:/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/exa-tkinter-search.git
-cd exa-tkinter-search
+git clone https://github.com/joshuahanielgts/search-engine.git
 ```
 
 ### 2. Install dependencies
@@ -60,16 +59,6 @@ exa = Exa('YOUR_EXA_API_KEY')
 
 ---
 
-## 📸 Screenshots
-
-| Search Bar                                  | Results Panel                                   |
-| ------------------------------------------- | ----------------------------------------------- |
-| ![Search Screenshot](assets/search-bar.png) | ![Results Screenshot](assets/results-panel.png) |
-
-*(Include screenshots of your GUI here in an `/assets` folder)*
-
----
-
 ## 💡 Example
 
 ```text
@@ -88,12 +77,7 @@ URL: https://www.google.com/example-link
 exa-tkinter-search/
 ├── app.py               # Main GUI application
 ├── README.md            # Project documentation
-├── requirements.txt     # Python dependencies (optional)
-└── assets/              # Screenshots and icons
+└── License              # License
 ```
 
 ---
-
-## 🧩 Customization
-
-To limit searc
